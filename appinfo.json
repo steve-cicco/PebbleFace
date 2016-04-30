@@ -1,0 +1,243 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "health"
+    ],
+    "companyName": "scicco@gmail.com",
+    "enableMultiJS": true,
+    "longName": "Steps with Mario",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu",
+                "menuIcon": true,
+                "name": "menu",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Coin",
+                "name": "Coin",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/End",
+                "name": "End",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/84",
+                "name": "84",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/83",
+                "name": "83",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/82",
+                "name": "82",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/81",
+                "name": "81",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/74",
+                "name": "74",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/73",
+                "name": "73",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/72",
+                "name": "72",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/71",
+                "name": "71",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/64",
+                "name": "64",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/63",
+                "name": "63",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/62",
+                "name": "62",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/61",
+                "name": "61",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/54",
+                "name": "54",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/53",
+                "name": "53",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/52",
+                "name": "52",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/51",
+                "name": "51",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/44",
+                "name": "44",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/43",
+                "name": "43",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/42",
+                "name": "42",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/41",
+                "name": "41",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/34",
+                "name": "34",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/33",
+                "name": "33",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/32",
+                "name": "32",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/31",
+                "name": "31",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/24",
+                "name": "24",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/23",
+                "name": "23",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/22",
+                "name": "22",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/21",
+                "name": "21",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/14",
+                "name": "14",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/13",
+                "name": "13",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/12",
+                "name": "12",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/11",
+                "name": "11",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "characterRegex": "[ -~]",
+                "file": "fonts/BIT_12",
+                "name": "BIT_12",
+                "targetPlatforms": null,
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Steps with Mario",
+    "targetPlatforms": [
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "2660c2e1-db42-4296-b756-3c5cbace9790",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
